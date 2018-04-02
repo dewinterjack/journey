@@ -18,5 +18,7 @@ I want to build this small idea into a package, and once a feature is implemente
 * [ ] Data can be overwritten, accounting for errors.
 * [ ] Tests have been carried out.
 
+I'm sure as I start building it I'll come up with a ton of ideas but for now I'm going to stick with that.
+
 
 

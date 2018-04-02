@@ -38,13 +38,5 @@ If developers aren't playing their part implementing this pattern then the commu
 
 This will be a useful concept to implement into [scriptool](/toolbox/javascript/node/project-1-~-scriptool.md)
 
-
-
-
-
-
-
-
-
-
+If there isn't an error, that error argument is set to null.
 

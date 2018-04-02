@@ -1,6 +1,6 @@
 # My Developer Journey
 
-In Mrch I started my journey in becoming a full time developer. It was a big step for me, after being interested for a while, I'm now enrolled in [Makers Academy](http://www.makersacademy.com/) and looking to learn as much as I can about the industry. I'm loving it so far.  🤩
+In March I started my journey in becoming a full time developer. It was a big step for me, after being interested for a while, I'm now enrolled in [Makers Academy](http://www.makersacademy.com/) and looking to learn as much as I can about the industry. I'm loving it so far.  🤩
 
 I want to keep track of my progress, so I'm writing this GitBook. Anyone reading is welcome, I'm happy to share, please feel free to get in contact,
 

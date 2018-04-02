@@ -12,4 +12,6 @@
     * [Node](toolbox/javascript/node.md)
   * [Ruby](toolbox/ruby.md)
   * Java
+* AI
+  * [Bot](bot.md)
 

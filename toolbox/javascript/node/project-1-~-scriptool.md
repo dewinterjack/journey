@@ -26,3 +26,5 @@ This app is of the _singleton_ structure I believe. One class dictating the prog
 
 I'd like to use some really pretty documentation, however I don't want to distract myself too much.
 
+After this has been implemented, I want to steer it towards taking API data or helping ruby do it.
+

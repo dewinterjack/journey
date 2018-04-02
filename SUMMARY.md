@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Dev Journey](README.md)
+  * Consistency
+  * [Thoughts](thoughts.md)
+* [Projects](chapter1.md)
+

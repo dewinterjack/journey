@@ -23,5 +23,5 @@ Modules should expose an error-first callback interface. **What does this mean??
 
 I should always check for errors with callbacks.
 
-It has something to do with the asynchronous flow of an app/
+It has something to do with the asynchronous flow of an app.
 

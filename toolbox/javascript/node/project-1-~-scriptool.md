@@ -4,3 +4,5 @@ I would like to be able to run ruby projects off this application if it's possib
 
 To be realistic, as I haven't built any node code before, I'm going to start with something simple.
 
+Ok, here goes. 
+

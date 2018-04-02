@@ -52,5 +52,5 @@ If all is well, data will contain the contents of scrip.txt, however, what if th
 
 The file may not be there, or there could be other complications, say with fs or readFile \(imagining it was a less predicable piece of code, such as a dependency from npm\).
 
-If it does go wrong, error will hold an error object.
+If it does go wrong, error will hold an error object. It will contain information on what went wrong, this can be handy.
 

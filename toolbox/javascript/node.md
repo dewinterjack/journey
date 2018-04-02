@@ -31,5 +31,9 @@ If developers aren't playing their part implementing this pattern then the commu
 
 [Helpful article.](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
 
+### Error-First Callback
+
+
+
 
 

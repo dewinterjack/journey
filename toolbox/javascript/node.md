@@ -46,5 +46,5 @@ fs.readFile('/scrip.txt, function(err, data){
 });
 ```
 
-This is the filesystem, reading scrip.txt, when the reading task has completed, the function \(callback\) is called.
+This is the filesystem, reading scrip.txt, when the reading task has completed, the function \(callback\) is called, this is whether it was a success or not.
 

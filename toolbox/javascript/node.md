@@ -42,7 +42,7 @@ If there isn't an error, that error argument is set to null. Successful data is 
 
 ```
 fs.readFile('/scrip.txt, function(err, data){
-
+    console.log(data);
 });
 ```
 

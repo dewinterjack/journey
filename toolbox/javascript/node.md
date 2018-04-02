@@ -25,5 +25,7 @@ I should always check for errors with callbacks.
 
 It has something to do with the asynchronous flow of an app.
 
-A standard for Node developers. You can't write everything yourself, we **depend **on other developer's dependencies.
+A standard for Node developers. You can't write everything yourself, we **depend **on other developer's dependencies. 
+
+If developers aren't playing their part implementing this pattern then the communication breaks.
 

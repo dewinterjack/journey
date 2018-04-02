@@ -10,5 +10,5 @@ Ok, here goes:
 
 Really simple idea, but I know how I can get it more interesting. Not sure exactly how useful it will be but who cares right now!
 
-I want to build this small idea into a package, and once a feature is implemented, I will move on to the next. I'm not going to do everything at once. The app will simple act as a storage container for one piece of data. 
+I want to build this small idea into a package, and once a feature is implemented, I will move on to the next. I'm not going to do everything at once. The app will simple act as a storage container for one piece of data. It will accept a value and will produce the value.
 

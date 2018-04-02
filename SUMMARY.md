@@ -7,4 +7,5 @@
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)
   * [Slack](toolbox/slack.md)
+  * [JavaScript](toolbox/javascript.md)
 

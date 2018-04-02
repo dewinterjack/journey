@@ -4,7 +4,7 @@ I'm going to keep track of certain consistencies that I keep over my career. The
 
 ### Tools
 
-| Tool | \# Notes |
+| Tool | \# Articles |
 | :---: | :---: |
 | JavaScript |  |
 | Node.JS |  |

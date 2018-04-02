@@ -34,6 +34,7 @@ If developers aren't playing their part implementing this pattern then the commu
 ### Error-First Callback
 
 1. First argument is reserved for an error.
-2. 
+2. The second argument is for a successful response of data.
+
 
 

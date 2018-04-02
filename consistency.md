@@ -5,8 +5,9 @@ I'm going to keep track of certain consistencies that I keep over my career. The
 ### Tools
 
 | Tool | \# Notes |
-| :--- | :--- |
-|  |  |
+| :---: | :---: |
+| JavaScript |  |
+| Node.JS |  |
 
 ### GitBook
 

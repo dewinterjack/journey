@@ -48,3 +48,7 @@ fs.readFile('/scrip.txt, function(err, data){
 
 This is the filesystem, reading scrip.txt, when the reading task has completed, the function \(callback\) is called, this is whether it was a success or not.
 
+If all is well, data will contain the contents of scrip.txt, however, what if there was an issue?
+
+
+

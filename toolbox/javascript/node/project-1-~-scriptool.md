@@ -12,3 +12,5 @@ Really simple idea, but I know how I can get it more interesting. Not sure exact
 
 I want to build this small idea into a package, and once a feature is implemented, I will move on to the next. I'm not going to do everything at once. The app will simple act as a storage container for one piece of data. It will accept a value and will produce the value. I'll progress it in stages.
 
+**Scrip ~ Store an item of data.**
+

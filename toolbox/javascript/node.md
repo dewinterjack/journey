@@ -33,7 +33,6 @@ If developers aren't playing their part implementing this pattern then the commu
 
 ### Error-First Callback
 
-
-
+1. 
 
 

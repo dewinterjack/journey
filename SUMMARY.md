@@ -12,7 +12,7 @@
     * [Node](toolbox/javascript/node.md)
       * [Project 1 ~ Scriptool](toolbox/javascript/node/project-1-~-scriptool.md)
   * [Ruby](toolbox/ruby.md)
-  * Java
+  * [Java](toolbox/java.md)
 * AI
   * [Bot](bot.md)
 

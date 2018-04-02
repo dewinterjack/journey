@@ -50,5 +50,5 @@ This is the filesystem, reading scrip.txt, when the reading task has completed, 
 
 If all is well, data will contain the contents of scrip.txt, however, what if there was an issue?
 
-
+The file may not be there, or there could be other complications, say with fs or readFile \(imagining it was a less predicable piece of code, such as a dependency from npm\).
 

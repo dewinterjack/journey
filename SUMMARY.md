@@ -6,4 +6,5 @@
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)
+  * [Slack](toolbox/slack.md)
 

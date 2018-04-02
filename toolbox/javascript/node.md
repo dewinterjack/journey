@@ -38,11 +38,11 @@ If developers aren't playing their part implementing this pattern then the commu
 
 This will be a useful concept to implement into [scriptool](/toolbox/javascript/node/project-1-~-scriptool.md)
 
-If there isn't an error, that error argument is set to null. Successful data is returned to the second argument.
+If there isn't an error, that error argument is set to null. Successful data is returned to the second argument.fs.readFile\('/scrip.txt, 
 
-```
-fs.readFile('/scrip.txt, function(err, data){
-    console.log(data);
+```javascript
+function(err, data){
+console.log(data);
 });
 ```
 
@@ -57,4 +57,13 @@ If it does go wrong, error will hold an error object. It will contain informatio
 As the callback creator, it is my responsibility to deal with the potential and treat the error, whether I think it will happen or not.
 
 I can deal with it in multiple ways, such as crashing the program or using another callback.
+
+```
+fs.readFile('/scrip.txt, function(err, data){
+
+console.log(data);
+});
+```
+
+
 

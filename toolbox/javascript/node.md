@@ -25,3 +25,5 @@ I should always check for errors with callbacks.
 
 It has something to do with the asynchronous flow of an app.
 
+A standard for Node developers.
+

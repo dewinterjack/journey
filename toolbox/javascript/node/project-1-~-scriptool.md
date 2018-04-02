@@ -24,5 +24,5 @@ This app is of the _singleton_ structure I believe. One class dictating the prog
 
 ---
 
-
+I'd like to use some really pretty documentation, however I don't want to distract myself too much.
 

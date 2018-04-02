@@ -14,3 +14,9 @@ I want to build this small idea into a package, and once a feature is implemente
 
 **Scrip ~ Store an item of data.**
 
+* [ ] Can receive data, store it and then return it back.
+* [ ] Data can be overwritten, accounting for errors.
+* [ ] Tests have been carried out.
+
+
+

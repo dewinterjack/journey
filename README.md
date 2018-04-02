@@ -28,7 +28,7 @@ GitBook is great for sharing results, however I need something for as I'm workin
 ## Future Projects
 
 * GitBook plugin
-* [Node app](/node-app.md) 
+* [Node app](/node-app.md)
 
- file file serves as your book's preface, a great place to describe your book's content and ideas.
+
 

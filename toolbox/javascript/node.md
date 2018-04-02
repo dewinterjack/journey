@@ -54,3 +54,5 @@ The file may not be there, or there could be other complications, say with fs or
 
 If it does go wrong, error will hold an error object. It will contain information on what went wrong, this can be handy.
 
+As the callback creator, it is my responsibility to deal with the potential and treat the error, whether I think it will happen or not.
+

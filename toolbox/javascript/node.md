@@ -70,3 +70,5 @@ fs.readFile('/scrip.txt, function(err, data){
 
 Ta da!
 
+Next time... Promises. But seriously.. what does that mean? TBC...
+

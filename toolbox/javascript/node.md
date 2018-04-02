@@ -9,6 +9,9 @@ I know that I'm going to have a fun time with Node quite soon... TBC
 Private, markdown-like app for to-dos/thoughts. CLI view and input.
 
 * I need something that can run on mobile as well. 
-* 
+* Organiser features
+
+* Calender
+
 
 

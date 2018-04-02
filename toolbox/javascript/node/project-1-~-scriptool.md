@@ -30,3 +30,5 @@ After this has been implemented, I want to steer it towards taking API data or h
 
 I'd like to have my documentation on GitBook, showing code from all sources. If I could eventually implement functionality of live response between this and my Git project that would be awesome.
 
+The stuff I was working on before has bloated my app. I'm going to have to restart. I'll keep the other work for later though.
+

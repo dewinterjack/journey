@@ -20,5 +20,5 @@ I want to build this small idea into a package, and once a feature is implemente
 
 I'm sure as I start building it I'll come up with a ton of ideas but for now I'm going to stick with that.
 
-This app is of the _singleton_ structure I believe. One class dictating the program.
+This app is of the _singleton_ structure I believe. One class dictating the program. The require provides the single stream.
 

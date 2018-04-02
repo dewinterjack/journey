@@ -8,6 +8,8 @@ I'm going to keep track of certain consistencies that I keep over my career. The
 | :---: | :---: |
 | JavaScript |  |
 | Node.JS |  |
+| Ruby |  |
+| [GitBook](/toolbox/gitbook.md) |  |
 
 ### GitBook
 

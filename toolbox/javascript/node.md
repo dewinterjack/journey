@@ -40,3 +40,11 @@ This will be a useful concept to implement into [scriptool](/toolbox/javascript/
 
 If there isn't an error, that error argument is set to null. Successful data is returned to the second argument.
 
+```
+fs.readFile('/scrip.txt, function(err, data){
+
+}
+```
+
+
+

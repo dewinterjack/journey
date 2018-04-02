@@ -1,6 +1,6 @@
 ## JavaScript
 
-| Library | \# Articles |
+| **Library** | **\# Articles** |
 | :--- | :--- |
 | Node |  |
 | React |  |

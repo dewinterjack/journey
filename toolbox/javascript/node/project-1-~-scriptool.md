@@ -8,5 +8,5 @@ Ok, here goes:
 
 ---
 
-Really simple idea, but I know how I can get it more interesting. 
+Really simple idea, but I know how I can get it more interesting. Not sure exactly how useful it will be but who cares right now!
 

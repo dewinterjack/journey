@@ -36,5 +36,15 @@ If developers aren't playing their part implementing this pattern then the commu
 1. First argument is reserved for an error.
 2. The second argument is for a successful response of data.
 
+This will be a useful concept to implement into [scriptool](/toolbox/javascript/node/project-1-~-scriptool.md)
+
+
+
+
+
+
+
+
+
 
 

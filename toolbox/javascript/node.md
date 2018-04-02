@@ -29,5 +29,7 @@ A standard for Node developers. You can't write everything yourself, we **depend
 
 If developers aren't playing their part implementing this pattern then the communication breaks.
 
-Helpful article.
+[Helpful article.](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
+
+
 

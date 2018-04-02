@@ -42,7 +42,7 @@ If there isn't an error, that error argument is set to null. Successful data is 
 
 ```javascript
 function(err, data){
-console.log(data);
+    console.log(data);
 });
 ```
 
@@ -60,12 +60,13 @@ I can deal with it in multiple ways, such as crashing the program or using anoth
 
 ```javascript
 fs.readFile('/scrip.txt, function(err, data){
-
-console.log(data);
+    if(err){
+        console.log('Unknown error');
+        return;
+    }
+    console.log(data);
 });
 ```
-
-
 
 
 

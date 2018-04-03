@@ -34,3 +34,7 @@ The stuff I was working on before has bloated my app. I'm going to have to resta
 
 Using the code generators is not needed unless I'm building an API with a ton of methods. I can just comment normally and talk about it.
 
+---
+
+I could write a Chai plugin that expects a name to be inputted, expecting a string with a space in between are stores it to a txt file.
+

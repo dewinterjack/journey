@@ -32,5 +32,5 @@ var acc = require('access')
 acc.("Jack Dewinter");
 ```
 
-That's one way of doing it. 
+That's one way of doing it. However, it could also be done in the CLI.
 

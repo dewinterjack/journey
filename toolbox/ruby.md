@@ -8,3 +8,5 @@ Learning [HTTP.](/toolbox/ruby/http-and-the-web.md)
 
 Message Aseel \(ask about 6-7 sessions\)
 
+Write reflection at end of day.
+

@@ -62,5 +62,7 @@ I like the idea of arrows showing input/output. Maybe they could be `!==>` when 
 
 What I just demonstrated is a feature test, I haven't implemented the code or tests yet but I got a feel for how it would operate.
 
+I could now follow some more good practice and write some tests.
+
 
 

@@ -15,6 +15,7 @@
   * [Ruby](toolbox/ruby.md)
   * [Java](toolbox/java.md)
   * [C++](toolbox/c++.md)
+  * [HTTP & The Web](toolbox/http-and-the-web.md)
 * AI
   * [Bot](bot.md)
 

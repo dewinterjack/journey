@@ -58,5 +58,5 @@ Maybe I'm already jumping ahead, I think one of these functionalities is good to
 
 Completing it the `require` way will be fine to release 1.0.0 package. Then maybe the other functionality could be 1.5.0, I need to find a good way to version properly.
 
-I like the idea of arrows showing input/output. 
+I like the idea of arrows showing input/output. Maybe they could be `!==>` when an error is returned.
 

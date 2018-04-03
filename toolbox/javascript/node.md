@@ -15,7 +15,8 @@ Private, markdown-like app for to-dos/thoughts. CLI view and input.
 
 ---
 
-Tracking tool for other applications. Stats/Health etc
+* Tracking tool for other applications. Stats/Health etc
+* Track git commit history with great detail. Create detailed analysis and present commit messages.
 
 ---
 

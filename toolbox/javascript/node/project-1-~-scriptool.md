@@ -32,3 +32,5 @@ I'd like to have my documentation on GitBook, showing code from all sources. If 
 
 The stuff I was working on before has bloated my app. I'm going to have to restart. I'll keep the other work for later though.
 
+Using the code generators is not needed unless I'm building an API with a ton of methods. I can just comment normally and talk about it.
+

@@ -68,3 +68,5 @@ I could now follow some more good practice and write some tests using **Chai & M
 
 I'm going to follow a single responsiblity principle and have a test for each feature.
 
+Mocha is for running our tests, Chai is for verifying them.
+

@@ -24,5 +24,11 @@ The 2 features defined were:
 
 A text file would be used for storage.
 
+Someone using the package may use it like this:
+
+```js
+var acc = require('access')
+```
+
 
 

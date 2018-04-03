@@ -43,9 +43,9 @@ access -w
 Could produce the message:
 
 ```bash
-|  What is your input?
+What is your input?
 
-|===>  Jack Dewinter
+==>  Jack Dewinter
 
 |=====================:
 

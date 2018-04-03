@@ -4,5 +4,5 @@ Build classes and structures in Java.
 
 Ruby or Node can deal with the data.
 
-
+I want to work a bit on Java before my interview on Thursday.
 

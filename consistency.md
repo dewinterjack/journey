@@ -21,5 +21,7 @@ I'm going to keep track of certain consistencies that I keep over my career. The
 
 #### Commit Messages
 
+---
 
+Every now and again, put some structure into this GitBook and make it easy to navigate.
 

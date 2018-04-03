@@ -30,9 +30,7 @@ Someone using the package may use it like this:
 var acc = require('access')
 
 acc.("Jack Dewinter");
-
-
 ```
 
-
+That's one way of doing it. 
 

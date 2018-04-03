@@ -3,6 +3,8 @@
 * [Dev Journey](README.md)
   * [Consistency](consistency.md)
   * [Workspace](thoughts.md)
+  * [Makers](makers.md)
+    * [Week 3](makers/week-3.md)
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)

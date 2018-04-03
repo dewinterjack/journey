@@ -28,6 +28,10 @@ Someone using the package may use it like this:
 
 ```js
 var acc = require('access')
+
+acc.("Jack Dewinter");
+
+
 ```
 
 

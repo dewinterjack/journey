@@ -64,5 +64,7 @@ What I just demonstrated is a feature test, I haven't implemented the code or te
 
 I could now follow some more good practice and write some tests using **Chai**.
 
+---
+
 I'm going to follow a single responsiblity principle and have a test for each feature.
 

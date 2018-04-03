@@ -13,9 +13,9 @@
       * [Project 1 ~ Scriptool](toolbox/javascript/node/project-1-~-scriptool.md)
         * [access](toolbox/javascript/node/project-1-~-scriptool/access.md)
   * [Ruby](toolbox/ruby.md)
+    * [HTTP & The Web](toolbox/ruby/http-and-the-web.md)
   * [Java](toolbox/java.md)
   * [C++](toolbox/c++.md)
-  * [HTTP & The Web](toolbox/http-and-the-web.md)
 * AI
   * [Bot](bot.md)
 

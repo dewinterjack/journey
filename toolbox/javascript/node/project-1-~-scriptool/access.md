@@ -45,11 +45,11 @@ Could produce the message:
 ```bash
 What is your input?
 
-==> 
+===> 
 
 Jack Dewinter
 
-<==
+<===
 
 The String, "Jack Dewinter" has been successfully saved to access.txt
 ```

@@ -16,3 +16,13 @@ Here we have the repo:
 
 Let's imagine I'm using the package access, that hasn't been written yet.
 
+The 2 features defined were:
+
+1. Can recieve a single piece of data
+
+2. Can return the same data
+
+A text file would be used for storage.
+
+
+

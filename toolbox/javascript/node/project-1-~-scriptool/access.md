@@ -43,16 +43,16 @@ access -w
 Could produce the message:
 
 ```bash
-What is your input?
+|  What is your input?
 
-===>  Jack Dewinter
+|===>  Jack Dewinter
 
-===================
+|=====================:
 
 The String, "Jack Dewinter" has been successfully saved to access.txt
 ```
 
-Maybe I'm already jumping ahead, I think one of these functionalities is good to start with. 
+Maybe I'm already jumping ahead, I think one of these functionalities is good to start with.
 
 Completing it the `require` way will be fine to release 1.0.0 package. Then maybe the other functionality could be 1.5.0, I need to find a good way to version properly.
 

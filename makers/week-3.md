@@ -12,5 +12,7 @@ Reflection:
 
 _8/10 _
 
-Today didn't start so well, I was exhausted after doing the project for Google so I didn't get in until 12:30.
+Today didn't start so well, I was exhausted after doing the project for Google so I didn't get in until 12:30. 
+
+I have done HTML in the past so it wasn't difficult to get up to speed. 
 

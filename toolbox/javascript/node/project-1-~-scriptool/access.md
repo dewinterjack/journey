@@ -32,5 +32,25 @@ var acc = require('access')
 acc.("Jack Dewinter");
 ```
 
-That's one way of doing it. However, it could also be done in the CLI.
+That's one way of doing it. However, it could also be done in the CLI. 
+
+Running:
+
+```bash
+access -w 
+```
+
+Could produce the message:
+
+```bash
+What is your input?
+
+===>  Jack Dewinter
+
+===================
+
+The String, "Jack Dewinter" has been successfully saved to access.txt
+```
+
+
 

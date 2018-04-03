@@ -32,12 +32,12 @@ var acc = require('access')
 acc.("Jack Dewinter");
 ```
 
-That's one way of doing it. However, it could also be done in the CLI. 
+That's one way of doing it. However, it could also be done in the CLI.
 
 Running:
 
 ```bash
-access -w 
+access -w
 ```
 
 Could produce the message:
@@ -52,5 +52,5 @@ What is your input?
 The String, "Jack Dewinter" has been successfully saved to access.txt
 ```
 
-
+Maybe I'm already jumping ahead, I think one of these functionalities is good to start with.
 

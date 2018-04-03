@@ -10,3 +10,5 @@ Message Aseel \(ask about 6-7 sessions\)
 
 Write reflection at end of day.
 
+Do some Java after makers.
+

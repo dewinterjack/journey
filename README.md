@@ -35,13 +35,5 @@ GitBook is great for sharing results, however I need something for as I'm workin
 
 ---
 
-Questions for the day:
-
-Interesting problems
-
-What is different about google engineering culture over other questions
-
-Will I get opportunity to mentor after apprenticeship
-
 
 

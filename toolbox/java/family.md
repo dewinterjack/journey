@@ -14,5 +14,3 @@ Stats page. Shows stats about country where family is from such as: 30% from UK,
 
 
 
-
-

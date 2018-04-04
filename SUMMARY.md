@@ -8,6 +8,7 @@
   * [Personal Challenges](personal-challenges.md)
   * [Links](links.md)
   * [Progression](progression.md)
+  * [Day](day.md)
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)

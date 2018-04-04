@@ -2,7 +2,7 @@
 
 ## Now
 
-Project planning app 
+Project planning app
 
 ---
 
@@ -19,4 +19,6 @@ Singly web apps.
 Build an interpreter
 
 Follow lots from this site: [Lambda The Ultimate](http://lambda-the-ultimate.org/) - Programming language research
+
+
 

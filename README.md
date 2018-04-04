@@ -35,5 +35,7 @@ GitBook is great for sharing results, however I need something for as I'm workin
 
 ---
 
-Signs of a brilliant [programmer](https://github.com/daryllxd/lifelong-learning/blob/master/programming/philosophy/google-signs-youre-a-good-or-bad-programmer.md#signs-that-youre-a-fantastic-programmer)
+Questions for the day:
+
+
 

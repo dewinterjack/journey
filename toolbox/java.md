@@ -14,3 +14,5 @@ App on phone can authenticate like whatsapp.
 
 person timelines & group \(family timelines\)
 
+timeline can be private
+

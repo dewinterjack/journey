@@ -16,3 +16,15 @@ Could help break down racial barriers. Could incorporate into timeline showing w
 
 Timeline view can show people who are alive and info about them, keep scrolling to before they are born and move into parents timeline. Work with group timeline.
 
+Classes:
+
+
+
+Tech:
+
+Node4j
+
+Java
+
+Ruby
+

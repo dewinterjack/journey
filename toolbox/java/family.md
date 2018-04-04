@@ -12,5 +12,5 @@ Stats page. Shows stats about country where family is from such as: 30% from UK,
 
 10% people still alive, were in Europe during WW2 etcetc... Could be pop up like facebook \(remember a year ago today\)
 
-
+Could help break down racial barriers.
 

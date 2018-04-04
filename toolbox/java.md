@@ -20,3 +20,5 @@ can create timelines for particular groups \(maybe just 4 people in immediate fa
 
 mutual photos etc
 
+social app that isnt centred around social, around you.
+

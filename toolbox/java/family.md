@@ -8,3 +8,7 @@ Could work like git. pull requests/branches. forks. Multiple versions of a tree 
 
 Root can create personal tree rules.
 
+Stats page. Shows stats about country where family is from such as: 30% from UK, 20% from US etc...
+
+
+

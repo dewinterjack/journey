@@ -2,6 +2,8 @@
 
 ## Now
 
+Singly web apps.
+
 ---
 
 ## Soon

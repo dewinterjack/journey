@@ -17,3 +17,5 @@ Dev Ops - automate everything
 
 I'm very interested in organisation and building better system.
 
+**Lifelong learning**
+

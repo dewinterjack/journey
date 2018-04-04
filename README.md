@@ -37,5 +37,7 @@ GitBook is great for sharing results, however I need something for as I'm workin
 
 Start structuring the book a bit more.
 
+Start documenting the project planning app. 
 
+Create articles on here as preperation for adding to the app for my Tools dream and others..
 

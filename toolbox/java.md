@@ -22,3 +22,7 @@ mutual photos etc
 
 social app that isnt centred around social, around you.
 
+MVP:
+
+
+

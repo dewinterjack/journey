@@ -41,3 +41,7 @@ Interesting problems
 
 What is different about google engineering culture over other questions
 
+Will I get opportunity to mentor after apprenticeship
+
+
+

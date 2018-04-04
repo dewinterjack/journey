@@ -33,5 +33,7 @@ GitBook is great for sharing results, however I need something for as I'm workin
 * App that backs up all snapchat memories to a folder \(bot\)
 * bash \(zsh\) script for creating repo &gt; adding readme etc. ask for type and do bundle or create index.js etc
 
+---
 
+Signs of a brilliant [programmer](https://github.com/daryllxd/lifelong-learning/blob/master/programming/philosophy/google-signs-youre-a-good-or-bad-programmer.md#signs-that-youre-a-fantastic-programmer)
 

@@ -21,3 +21,5 @@ I'm very interested in organisation and building better system.
 
 Start blogging. Seriously, as a goal, write one, but eventually, every day write a new blog on something you have learnt. Use medium.
 
+Creating my own [tools](https://github.com/daryllxd/lifelong-learning/blob/master/programming/philosophy/google-signs-youre-a-good-or-bad-programmer.md#6-creates-their-own-tools)
+

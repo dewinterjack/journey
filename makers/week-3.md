@@ -28,8 +28,13 @@ I will write an article for prep on the interview: Site Reliabiliity, Java \(use
 
 ---
 
-* Look into automation of workflow.
-* Build a shell script \(closing all apps, setting up a ruby/sinatra project\)
+* [ ] Look into automation of workflow.
+
+* [ ] Build a shell script \(closing all apps, setting up a ruby/sinatra project\)
+
+
+
+
 
 
 

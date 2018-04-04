@@ -35,5 +35,7 @@ GitBook is great for sharing results, however I need something for as I'm workin
 
 ---
 
+Start structuring the book a bit more.
+
 
 

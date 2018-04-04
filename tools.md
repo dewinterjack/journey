@@ -7,5 +7,5 @@ Starting with the basics, working my way up to scriptool, for managing my script
 3. Close all chrome tabs
 4. Check local weather
 
-
+![](/assets/Screen Shot 2018-04-04 at 21.19.04.png)
 

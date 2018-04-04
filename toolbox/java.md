@@ -34,5 +34,5 @@ Child
 
 Parter
 
-& Timeline
+& Timeline and Events
 

@@ -22,7 +22,7 @@ Person, Event
 
 Tech:
 
-Node4j
+Neo4j
 
 Java / Koltin
 

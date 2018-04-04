@@ -19,3 +19,5 @@ I'm very interested in organisation and building better system.
 
 **Lifelong learning**
 
+Start blogging. Seriously, as a goal, write one, but eventually, every day write a new blog on something you have learnt. Use medium.
+

@@ -36,7 +36,11 @@ Parter
 
 & Timeline and Events
 
-
-
 Can add people. Connected by relationships. Can add data. Can add events.
+
+
+
+---
+
+When someone joins the tree they can gain control over their data about them.
 

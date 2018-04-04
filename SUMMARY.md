@@ -7,6 +7,7 @@
     * [Week 3](makers/week-3.md)
   * [Personal Challenges](personal-challenges.md)
   * [Links](links.md)
+  * [Progression](progression.md)
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)

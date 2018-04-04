@@ -4,3 +4,5 @@ Collaborative trees, people may need to vote for how it looks or what happens et
 
 One person can add someone to a tree, root needs to confirm. Can provide proof as to why they are family.
 
+Could work like git.
+

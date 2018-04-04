@@ -24,7 +24,7 @@ Tech:
 
 Node4j
 
-Java
+Java / Koltin
 
 Ruby
 

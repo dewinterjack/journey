@@ -2,7 +2,7 @@
 
 ## Now
 
-Project planning app
+Project planning app 
 
 ---
 

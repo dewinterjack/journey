@@ -18,7 +18,7 @@ Timeline view can show people who are alive and info about them, keep scrolling 
 
 Classes:
 
-
+Person, Event
 
 Tech:
 

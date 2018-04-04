@@ -8,3 +8,5 @@ I want to work a bit on Java before my interview on Thursday.
 
 Add people as connections. They are connected by actual relationships.
 
+You can find people through relationships.
+

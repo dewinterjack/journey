@@ -7,7 +7,8 @@ Tools:
 VS Code
 
 * Task runner
-* 
+* intellisense
+
 ---
 
 

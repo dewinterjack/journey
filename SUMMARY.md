@@ -21,4 +21,5 @@
 * [HTTP & The Web](toolbox/ruby/http-and-the-web.md)
 * AI
   * [Bot](bot.md)
+* [Pointers](pointers.md)
 

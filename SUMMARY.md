@@ -10,6 +10,7 @@
   * [Links](links.md)
   * [Progression](progression.md)
   * [Day](day.md)
+  * [Tools](tools.md)
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)

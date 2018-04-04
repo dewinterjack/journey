@@ -23,4 +23,5 @@
 * AI
   * [Bot](bot.md)
 * [Pointers](pointers.md)
+* [Learn](learn.md)
 

@@ -2,11 +2,13 @@
 
 ## Now
 
-Singly web apps. 
+
 
 ---
 
 ## Soon
+
+Singly web apps.
 
 ---
 

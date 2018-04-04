@@ -6,3 +6,5 @@ One person can add someone to a tree, root needs to confirm. Can provide proof a
 
 Could work like git. pull requests/branches. forks. Multiple versions of a tree that people can contribute to, could enforse rules such as needing proof.
 
+Root can create personal tree rules.
+

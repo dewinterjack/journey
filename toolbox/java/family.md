@@ -14,5 +14,5 @@ Stats page. Shows stats about country where family is from such as: 30% from UK,
 
 Could help break down racial barriers. Could incorporate into timeline showing where family is at different points in time.
 
-Timeline view can show people who are alive and info about them, keep scrolling to before they are born and move into parents timeline.
+Timeline view can show people who are alive and info about them, keep scrolling to before they are born and move into parents timeline. Work with group timeline.
 

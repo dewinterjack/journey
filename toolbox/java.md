@@ -12,3 +12,5 @@ You can find people through relationships. Maybe don't need to ask permission to
 
 App on phone can authenticate like whatsapp.
 
+person timelines & group \(family timelines\)
+

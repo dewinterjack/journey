@@ -25,3 +25,5 @@ Creating my own [tools](https://github.com/daryllxd/lifelong-learning/blob/maste
 
 Minimalist sites. One purpose \(singleton\)
 
+Morning: Hard challenges, Night: lighter reading
+

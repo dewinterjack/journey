@@ -26,3 +26,7 @@ We're currently just learning about Sinatra but I believe we will be moving on t
 
 I will write an article for prep on the interview: Site Reliabiliity, Java \(useful functions\), algorithms
 
+---
+
+
+

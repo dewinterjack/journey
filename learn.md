@@ -2,6 +2,8 @@
 
 This [guy!](https://github.com/daryllxd/lifelong-learning)
 
+
+
 ---
 
 Algorithm Complexity: You need to know Big-O. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. Sorting: Know how to sort. Don't do bubble-sort. You should know the details of at least one n

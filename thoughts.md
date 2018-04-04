@@ -15,3 +15,5 @@ Dev Ops - automate everything
 
 ![](/assets/Screen Shot 2018-04-04 at 05.01.27.png)
 
+I'm very interested in organisation and building better system.
+

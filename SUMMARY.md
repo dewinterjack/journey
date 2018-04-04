@@ -5,6 +5,7 @@
   * [Workspace](thoughts.md)
   * [Makers](makers.md)
     * [Week 3](makers/week-3.md)
+  * [Personal Challenges](personal-challenges.md)
 * [TIL](til.md)
 * [Toolbox](toolbox.md)
   * [GitBook](toolbox/gitbook.md)

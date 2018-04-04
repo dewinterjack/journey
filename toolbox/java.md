@@ -18,5 +18,5 @@ timeline can be private
 
 can create timelines for particular groups \(maybe just 4 people in immediate family\)
 
-
+mutual photos etc
 

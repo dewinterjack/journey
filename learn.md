@@ -1,6 +1,6 @@
 # Some resources and snippets that interested me:
 
-
+This [guy!](https://github.com/daryllxd/lifelong-learning)
 
 ---
 

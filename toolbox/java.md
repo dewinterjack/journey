@@ -10,3 +10,5 @@ Add people as connections. They are connected by actual relationships.
 
 You can find people through relationships. Maybe don't need to ask permission to talk.
 
+App on phone can authenticate like whatsapp.
+

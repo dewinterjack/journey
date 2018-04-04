@@ -6,6 +6,7 @@
   * [Makers](makers.md)
     * [Week 3](makers/week-3.md)
       * [Sinatra](makers/week-3/sinatra.md)
+      * [Capybara](makers/week-3/capybara.md)
   * [Personal Challenges](personal-challenges.md)
   * [Links](links.md)
   * [Progression](progression.md)

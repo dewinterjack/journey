@@ -9,6 +9,8 @@ VS Code
 * Task runner
 * intellisense
 
+Dev Ops - automate everything
+
 ---
 
 

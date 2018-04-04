@@ -2,7 +2,7 @@
 
 ## Now
 
-Singly web apps.
+Singly web apps. 
 
 ---
 

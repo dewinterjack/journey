@@ -24,5 +24,7 @@ social app that isnt centred around social, around you.
 
 MVP:
 
+Root
+
 
 

@@ -2,7 +2,10 @@
 
 ## Now
 
-Project planning app 
+Project planning app
+
+1. Deals with project set-up \(shell scripts etc running bundle, npm\)
+2. Area for documenting ideas 
 
 ---
 

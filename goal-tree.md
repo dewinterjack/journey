@@ -1,6 +1,14 @@
-### My Goal Tree 
+### My Goal Tree
 
 #### A journey to success 🤓 💻 🙏
+
+**Key:**
+
+| _**Advisors**_ | 🧐 |
+| :--- | :--- |
+| _**Resources**_ | 📖 |
+| _**Evidence**_ | 📸 |
+| _**Action**_ | 💥 |
 
 ---
 

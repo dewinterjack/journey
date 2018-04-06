@@ -3,5 +3,7 @@
 
 * if two of the same are chosen, use a different gif
 
+* have option to type in any pokemon 
+
 
 

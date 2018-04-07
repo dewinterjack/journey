@@ -22,6 +22,10 @@
 **Documentation links \(contents of docs\)**
 
 * Requirements / User Stories
+* Plan/thoughts
+
+* Documenting progress.
+
 * 
 
 

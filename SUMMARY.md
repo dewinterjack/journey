@@ -9,6 +9,8 @@
       * [Capybara](makers/week-3/capybara.md)
     * [Weekend Challenges](makers/weekend-challeneges.md)
       * [Week 3 - Rock Paper Scissors!](makers/weekend-challeneges/week-3-rock-paper-scissors.md)
+        * [Requirements](makers/weekend-challeneges/week-3-rock-paper-scissors/requirements.md)
+        * Progress Documentation
   * [Personal Challenges](personal-challenges.md)
   * [Links](links.md)
   * [Progression](progression.md)

@@ -35,4 +35,5 @@
 * [Learn](learn.md)
 * [Goal Tree](goal-tree.md)
 * [Pokemon Game](pokemon-game.md)
+* [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
 

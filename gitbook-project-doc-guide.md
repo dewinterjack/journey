@@ -28,5 +28,9 @@
 
 * Code docs
 
+---
+
+Image of main project screen
+
 
 

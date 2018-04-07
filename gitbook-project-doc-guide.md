@@ -28,6 +28,8 @@
 
 * Code docs
 
+* Review/ post project thoughts
+
 ---
 
 Image of main project screen

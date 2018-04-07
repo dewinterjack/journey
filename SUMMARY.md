@@ -31,9 +31,9 @@
 * [HTTP & The Web](toolbox/ruby/http-and-the-web.md)
 * AI
   * [Bot](bot.md)
+* [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
 * [Pointers](pointers.md)
 * [Learn](learn.md)
 * [Goal Tree](goal-tree.md)
-* [Pokemon Game](pokemon-game.md)
 * [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
 

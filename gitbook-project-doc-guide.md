@@ -17,7 +17,9 @@
 * List of resources
 * Libraries, tutorials, repositories 
 
+---
 
+**Documentation links \(contents of docs\)**
 
 
 

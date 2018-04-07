@@ -2,6 +2,8 @@
 
 * [Dev Journey](README.md)
   * [Consistency](consistency.md)
+    * ok
+  * [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
   * [Workspace](thoughts.md)
   * [Makers](makers.md)
     * [Week 3](makers/week-3.md)
@@ -33,7 +35,6 @@
 * [HTTP & The Web](toolbox/ruby/http-and-the-web.md)
 * AI
   * [Bot](bot.md)
-* [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
 * [Pointers](pointers.md)
 * [Learn](learn.md)
 * [Goal Tree](goal-tree.md)

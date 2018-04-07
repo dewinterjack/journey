@@ -5,10 +5,12 @@ Set up spec files. When I start a project, I'll run a gem, tell it the features 
 1. Check if spec init has been run.
 2. Run if it hasn't 
 
-Could be built up into a project planner. 
+Could be built up into a project planner.
 
 1. Ask for project name
 2. Description
-3. 
+
+File for the gem that stores these details. project -s will print a summary.
+
 
 

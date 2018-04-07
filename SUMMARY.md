@@ -7,6 +7,8 @@
     * [Week 3](makers/week-3.md)
       * [Sinatra](makers/week-3/sinatra.md)
       * [Capybara](makers/week-3/capybara.md)
+    * [Weekend Challenges](makers/weekend-challeneges.md)
+      * Week 3 - Rock Paper Scissors!
   * [Personal Challenges](personal-challenges.md)
   * [Links](links.md)
   * [Progression](progression.md)

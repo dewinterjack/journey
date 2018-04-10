@@ -16,3 +16,5 @@ This should be personal. Set up tools for myself.
 
 Maybe a readme generator. Ask questions, set up the readme based on them.
 
+can edit the readme
+

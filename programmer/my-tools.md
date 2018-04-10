@@ -12,5 +12,5 @@ Could be built up into a project planner.
 
 File for the gem that stores these details. project -s will print a summary.
 
-
+This should be personal. Set up tools for myself. 
 

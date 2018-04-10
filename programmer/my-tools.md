@@ -10,5 +10,7 @@ Could be built up into a project planner.
 1. Ask for project name
 2. Description
 
-File for the gem that stores these details. project -s will print a summary. 
+File for the gem that stores these details. project -s will print a summary.
+
+one tool could be setting up a makers project. 
 

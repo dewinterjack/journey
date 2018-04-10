@@ -12,5 +12,7 @@ Could be built up into a project planner.
 
 File for the gem that stores these details. project -s will print a summary.
 
-This should be personal. Set up tools for myself. 
+This should be personal. Set up tools for myself.
+
+Maybe a readme generator. Ask questions, set up the readme based on them.
 

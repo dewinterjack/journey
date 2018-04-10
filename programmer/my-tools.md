@@ -12,7 +12,5 @@ Could be built up into a project planner.
 
 File for the gem that stores these details. project -s will print a summary.
 
-one tool could be setting up a makers project. Sets up readme, connects it the makers hub.
-
 
 

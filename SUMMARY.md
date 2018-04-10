@@ -2,7 +2,7 @@
 
 * [Dev Journey](README.md)
   * [Consistency](consistency.md)
-    * ok
+    * [ok](consistency/ok.md)
   * [GitBook Project Doc Guide](gitbook-project-doc-guide.md)
   * [Workspace](thoughts.md)
   * [Makers](makers.md)
